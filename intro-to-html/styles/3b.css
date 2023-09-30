@@ -1,0 +1,36 @@
+p{
+  font-family: verdana;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.html{
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.pro{
+  color: gray;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.course{
+  width: 320px;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.button{
+  background-color: rgb(19, 172, 19);
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}

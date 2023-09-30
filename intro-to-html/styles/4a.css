@@ -1,0 +1,34 @@
+.w{
+  border-radius: 20px;
+}
+
+.w2{
+  margin-left: 100px;
+  width: 200px;
+  height: 200px;
+  object-position: center;
+}
+
+.w3{
+  margin-left: 100px;
+  width: 200px;
+  height: 200px;  
+  border-radius: 100px;
+}
+
+.Search{
+  height: 30px;
+  width: 190px;
+  border-radius: 6px;
+  border-width: 0.1px;
+}
+
+.Search2{
+  margin-top: 50px;
+  margin-left: 50px;
+  height: 28px;
+  width: 375px;
+  box-shadow: 2px 2px 2px  rgba(0, 0, 0, 0.15) ;
+  border-radius: 14px;
+  border: none;
+}

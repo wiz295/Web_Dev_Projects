@@ -1,0 +1,115 @@
+.request-now{
+  background-color: black;
+  color: white;
+  border: none;
+  height: 35px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.request-now:hover{
+  opacity: 0.8;
+}
+.request-now:active{
+  opacity: 0.6;
+}
+.add-tocart{
+  background-color: rgb(255, 216, 20);
+  border: none;
+  height: 33px;
+  width: 150px;
+  border-radius: 16.5px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.add-tocart:hover{
+  background-color:rgb(194, 165, 19) ;
+}
+.add-tocart:active{
+  opacity: 0.8;
+}
+.sign-up{
+  background-color: rgb(46, 164, 79);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  height: 35px;
+  width: 85px;
+  font-weight: bold;
+  margin-left: 20px;
+  cursor: pointer;
+}
+.sign-up:hover{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+.sign-up:active{
+  opacity: 0.8;
+}
+.get-started{
+  background-color: rgb(121, 82, 179);
+  color: white;
+  height: 35px;
+  width: 100px;
+  border: none;
+  font-weight: bold;
+  border-radius: 3px;
+  margin-left: 30px;
+  cursor: pointer;
+}
+.get-started:hover{
+  background-color:rgb(102, 69, 152) ;
+}
+.get-started:active{
+  opacity: 0.8;
+}
+.download{
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border-width: 0.1px;
+  border-radius: 3px;
+  border-color: rgb(108,117, 125);
+  height: 35px;
+  width: 100px;
+  cursor: pointer;
+}
+.download:hover{
+  background-color:  rgb(108, 117, 125);
+  color: white;
+}
+.download:active{
+  opacity: 0.8;
+}
+.apply{
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  height: 35px;
+  width: 210px;
+  border-radius: 17.5px;
+  font-weight: bold;
+  margin-left: 40px;
+  cursor: pointer;
+  
+}
+.apply:hover{
+  background-color: rgb(16, 90, 163);
+}
+.apply:active{
+  opacity: 0.8;
+}
+.save{
+  background-color: white;
+  color: rgb(10, 102, 194) ;
+  border-color: rgb(10, 102, 194) ; 
+  height: 35px;
+  width: 70px;
+  border-radius: 17.5px;
+  border-width: 0.1px;
+  cursor: pointer;
+}
+.save:hover{
+  background-color: rgb(211, 235, 245);
+  border-width: 2px;
+}
+.save:active{
+  opacity: 0.6;
+}

@@ -1,0 +1,29 @@
+p{
+  font-family: arial;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.dig{
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.usd{
+  color: rgba(96, 94, 94, 0.884);
+}
+
+.rate{
+  color: green;
+  font-size: 18px;
+}
+
+.time{
+  color: rgba(96, 94, 94, 0.884);
+  font-size: 20px;
+}
+
+.r{
+  color: red;
+  font-size: 20px;
+}

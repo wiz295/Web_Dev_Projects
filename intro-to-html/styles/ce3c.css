@@ -1,0 +1,25 @@
+p{
+  font-family: arial;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.a{
+  font-weight: bold;
+  font-size: 20px;
+}
+ .b{
+  color: gray;
+  font-size: 20px;
+ }
+ .web{
+  width: 550px;
+  font-size: 18px;
+  margin-bottom: 15px;
+ }
+ .chp{
+  color: rgb(0, 174, 255);
+ }
+ .here{
+  font-size: 20px;
+ }

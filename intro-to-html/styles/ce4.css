@@ -1,0 +1,26 @@
+p{
+  font-family: Montserrat;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.model{
+  font-weight: bold;
+  text-align: center;
+  font-size: 52px;
+  margin-bottom: 10px;
+}
+.order{
+  text-align: center;
+  font-size: 25px;
+}
+.del{
+  text-decoration: underline;
+ transition: opacity 0.3s;
+}
+.del:hover{
+  cursor: pointer;
+}
+.del:active{
+  text-decoration: none;
+  opacity: 0.5;
+}
