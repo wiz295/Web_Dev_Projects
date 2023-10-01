@@ -11,6 +11,9 @@
   margin-bottom: 10px;
 }
 
+.video-preview{
+  cursor: pointer;
+}
 
 .video-info-grid{
   display: grid;
